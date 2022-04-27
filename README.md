@@ -1,5 +1,5 @@
-### Hi there 👋  me chamo Gerdivaldo dos santos silva.
-
+### Olá, me chamo Gerdivaldo.
+### Muito bem vindo ao meu perfil do GitHub.
 <!--
 **gerdsi2013/gerdsi2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
